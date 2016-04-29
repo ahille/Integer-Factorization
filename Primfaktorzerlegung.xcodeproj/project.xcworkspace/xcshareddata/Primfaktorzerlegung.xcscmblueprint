@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "331147332A51F1B1807F1DE9279F926DA3638430",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8C3F65D184A80FB10A5A4796CF39A0D01A78E38" : 0,
+    "331147332A51F1B1807F1DE9279F926DA3638430" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "15DE3BF2-8A85-4AA8-8B07-A3EA8BCD66E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8C3F65D184A80FB10A5A4796CF39A0D01A78E38" : "",
+    "331147332A51F1B1807F1DE9279F926DA3638430" : "Primfaktorzerlegung\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Primfaktorzerlegung",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Primfaktorzerlegung.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahille\/Integer-Factorization.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "331147332A51F1B1807F1DE9279F926DA3638430"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahille\/Integer-Factorization.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8C3F65D184A80FB10A5A4796CF39A0D01A78E38"
+    }
+  ]
+}
