@@ -237,6 +237,7 @@
 				DF8A91BD1BDF68B6009A0DE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
